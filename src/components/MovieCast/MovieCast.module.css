@@ -1,0 +1,10 @@
+.actor-pic {
+    max-width: 100px;
+}
+
+.cast-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 30px;
+}

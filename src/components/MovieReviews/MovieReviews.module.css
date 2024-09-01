@@ -1,0 +1,11 @@
+.review-list {
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    gap: 20px;
+} 
+
+.review-author {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
